@@ -1,2 +1,2 @@
 # Probation
-First time to create a Repository!
+First time to create a repository!
